@@ -16,6 +16,8 @@ step5) now activate the env >Scripts/Activate
 step6)now the environment is activated --->now install requirement.txt file ---->using command---->pip install -r requirement.txt
 
   All the lib will be install from this file
+ 
+ Point that environment to the project
 
 Now Database Related Things----------->
 
